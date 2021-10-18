@@ -1,0 +1,6 @@
+[book]
+authors = ["Richard Chien"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "OneBot Book"
